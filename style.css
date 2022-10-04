@@ -1,0 +1,50 @@
+body
+{
+background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+#login_button
+{
+   width: 5%;
+}
+#user_name
+{
+    width: 30%;
+}
+.container
+{
+    padding-top: 100px;
+}
+#btn
+{
+    margin-left: 90%;
+    margin-bottom: 30px;
+}
+
+#output
+{
+	padding: 10px; 
+	width:80%;background: lightseagreen;
+	border-radius: 15px;
+}
+.input_div_message_page
+{
+	position: fixed;
+	bottom: 0px;width: 100%;
+	background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+.user_tick{
+  width: 20px;
+}
